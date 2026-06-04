@@ -196,24 +196,6 @@ I build mobile apps that ship and AI backends that hold up in production. My cur
 
 ---
 
-### GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yosefyosef13054&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=22A6F2&text_color=C9D1D9&icon_color=22A6F2&ring_color=22A6F2" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosefyosef13054&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=22A6F2&text_color=C9D1D9" alt="Top languages" />
-
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=yosefyosef13054&hide_border=true&background=0D1117&stroke=0D1117&ring=22A6F2&fire=22A6F2&currStreakLabel=22A6F2&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yosefyosef13054&bg_color=0D1117&color=C9D1D9&line=22A6F2&point=22A6F2&area=true&area_color=22A6F2&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-
-</div>
-
----
 
 ### Technical Philosophy
 
